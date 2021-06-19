@@ -1,0 +1,7 @@
+baseURL = "https://oldillusion.github.io/"
+languageCode = "en-gb"
+title = "oldillusion"
+theme = "m10c"
+
+[params]
+description = "thoughts and musings of a developer, sysadmin and musician"
