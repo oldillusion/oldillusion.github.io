@@ -1,3 +1,3 @@
-[submodule "themes/hugo-tania"]
-	path = themes/hugo-tania
-	url = https://github.com/WingLim/hugo-tania
+[submodule "themes/m10c"]
+	path = themes/m10c
+	url = https://github.com/vaga/hugo-theme-m10c
